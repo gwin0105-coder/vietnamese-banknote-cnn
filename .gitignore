@@ -6,3 +6,6 @@ venv/
 *.log
 transcript
 work/
+*.wlf
+*.mti
+*.mpf
