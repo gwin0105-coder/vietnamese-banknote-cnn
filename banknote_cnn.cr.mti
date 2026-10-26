@@ -1,0 +1,92 @@
+D:/vietnamese-banknote-cnn/verilog/conv2d.v {1 {vlog -work work -stats=none D:/vietnamese-banknote-cnn/verilog/conv2d.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module conv2d_mem
+
+Top level modules:
+	conv2d_mem
+
+} {} {}} D:/vietnamese-banknote-cnn/testbench/tb_dense.v {1 {vlog -work work -stats=none D:/vietnamese-banknote-cnn/testbench/tb_dense.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dense_tb
+
+Top level modules:
+	dense_tb
+
+} {} {}} D:/vietnamese-banknote-cnn/testbench/tb_conv2.v {1 {vlog -work work -stats=none D:/vietnamese-banknote-cnn/testbench/tb_conv2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module conv2_tb
+
+Top level modules:
+	conv2_tb
+
+} {} {}} D:/vietnamese-banknote-cnn/testbench/tb_maxpool.v {1 {vlog -work work -stats=none D:/vietnamese-banknote-cnn/testbench/tb_maxpool.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module maxpool_tb
+
+Top level modules:
+	maxpool_tb
+
+} {} {}} D:/vietnamese-banknote-cnn/verilog/classifier.v {1 {vlog -work work -stats=none D:/vietnamese-banknote-cnn/verilog/classifier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module classifier
+
+Top level modules:
+	classifier
+
+} {} {}} D:/vietnamese-banknote-cnn/verilog/dense.v {1 {vlog -work work -stats=none D:/vietnamese-banknote-cnn/verilog/dense.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dense_mem
+
+Top level modules:
+	dense_mem
+
+} {} {}} D:/vietnamese-banknote-cnn/verilog/conv2.v {1 {vlog -work work -stats=none D:/vietnamese-banknote-cnn/verilog/conv2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module conv2_mem
+
+Top level modules:
+	conv2_mem
+
+} {} {}} D:/vietnamese-banknote-cnn/verilog/maxpool.v {1 {vlog -work work -stats=none D:/vietnamese-banknote-cnn/verilog/maxpool.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module maxpool2x2
+
+Top level modules:
+	maxpool2x2
+
+} {} {}} D:/vietnamese-banknote-cnn/verilog/cnn_top.v {1 {vlog -work work -stats=none D:/vietnamese-banknote-cnn/verilog/cnn_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cnn_top
+
+Top level modules:
+	cnn_top
+
+} {} {}} D:/vietnamese-banknote-cnn/testbench/tb_conv2d.v {1 {vlog -work work -stats=none D:/vietnamese-banknote-cnn/testbench/tb_conv2d.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module conv2d_tb
+
+Top level modules:
+	conv2d_tb
+
+} {} {}} D:/vietnamese-banknote-cnn/testbench/tb_sigmoid.v {1 {vlog -work work -stats=none D:/vietnamese-banknote-cnn/testbench/tb_sigmoid.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sigmoid_tb
+
+Top level modules:
+	sigmoid_tb
+
+} {} {}} D:/vietnamese-banknote-cnn/testbench/tb_classifier.v {1 {vlog -work work -stats=none D:/vietnamese-banknote-cnn/testbench/tb_classifier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module classifier_tb
+
+Top level modules:
+	classifier_tb
+
+} {} {}} D:/vietnamese-banknote-cnn/verilog/sigmoid.v {1 {vlog -work work -stats=none D:/vietnamese-banknote-cnn/verilog/sigmoid.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sigmoid_approx
+
+Top level modules:
+	sigmoid_approx
+
+} {} {}}
